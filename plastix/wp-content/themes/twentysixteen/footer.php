@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying the footer
- *
+ *hi every one this is my second change in github plastix/wp-content/themes/twentysixteen/footer.php 
  * Contains the closing of the #content div and all content after
  *
  * @package WordPress
